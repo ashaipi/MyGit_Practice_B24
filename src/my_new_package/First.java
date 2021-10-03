@@ -9,5 +9,7 @@ public class First {
         System.out.println("first line after enabled VCS");
 
         // First update after first commit
+
+        // Second update
     }
 }
